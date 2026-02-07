@@ -6,13 +6,13 @@
 
 ## 🚀 About Me
 
-Backend Developer specializing in **Node.js/Express.js**, **EDI integrations**, and **distributed job scheduling** for logistics and supply chain systems. I architect scalable solutions that drive operational efficiency and revenue optimization.
+Backend Developer specializing in **Node.js/Express.js**, **RESTful APIs**, and **distributed systems**. I architect scalable solutions that drive operational efficiency and deliver measurable business impact.
 
-- 🔭 Currently working as **Software Developer** at SHJ International Technologies
-- 💼 Building enterprise-grade WMS and logistics platforms processing **$10M+ monthly inventory**
+- 🔭 Currently exploring opportunities in **Software Development/Backend Development**
+- 💼 Experience building enterprise-grade applications with complex business logic
 - 🌱 Passionate about distributed systems, microservices, and performance optimization
 - 📫 Reach me at: **praveenprabhakarkumar@gmail.com**
-- 📍 Based in Indore, MP, India
+- 📍 Based in India
 
 ## 💻 Technical Skills
 
@@ -43,64 +43,35 @@ Backend Developer specializing in **Node.js/Express.js**, **EDI integrations**, 
 
 ## 🏆 Key Achievements
 
-- 📦 Engineered multi-warehouse WMS processing **$10M+ monthly inventory** with **99% accuracy**
-- 🚚 Automated **1,000+ monthly shipments** through EDI workflow integrations
-- ⚡ Improved system reliability by **50%** migrating to BullMQ/Redis queue architecture
-- 🎯 Reduced empty miles by **15%** with optimized driver-load matching algorithms
-- 💰 Built forecasting modules managing **$50M+ annual operations** with **25%** improved accuracy
+- 🏗️ Architected scalable backend systems handling high-volume data processing with **99% accuracy**
+- ⚡ Improved system reliability by **50%** through migration to distributed queue architecture
+- 🎯 Optimized search and matching algorithms reducing operational overhead by **15%**
+- 💰 Built forecasting modules with **25%** improved prediction accuracy
+- 🚀 Automated 1,000+ monthly operations through API integrations and workflow automation
 
 ## 💼 Professional Experience
 
-### Software Developer | SHJ International Technologies
-**July 2025 – Present**
+### Software Developer
+**July 2024 – January 2026**
 
-- Architected enterprise WMS for Fortune 50 telecom client with EDI integrations
-- Built RESTful APIs for real-time driver/load matching with HAZMAT certification filters
-- Developed SKU damage tracking system with automated penalty calculations
-- Created warehouse & labor forecasting service for capacity planning
+- Architected enterprise-scale backend systems with complex business logic and data integrations
+- Built RESTful APIs with advanced search, filtering, and real-time data processing capabilities
+- Developed data tracking systems with automated calculations and audit trails
+- Created forecasting services using historical data analysis for business intelligence
 
-### Software Developer Intern | SHJ International Technologies
-**January 2025 – June 2025**
+### Software Developer Intern
+**January 2024 – June 2024**
 
-- Migrated distributed cron jobs to centralized BullMQ/Redis architecture
+- Migrated distributed cron jobs to centralized BullMQ/Redis queue architecture
 - Implemented job monitoring APIs with retry logic and failure handling
 - Collaborated in Agile/Scrum environment using Jira and Confluence
+- Participated in code reviews and contributed to technical documentation
 
-## 🚀 Featured Projects
-
-### Backhaul Platform - Carrier Backhaul Matching System
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-
-A PostGIS-powered backhaul matching platform for carrier fleets with SMS-based driver workflows.
-
-**Key Features:**
-- Scoring-based matching algorithm with transaction-safe load assignments
-- Geospatial queries using PostGIS for proximity-based matching
-- SMS integration via Twilio for driver notifications
-- Redis caching for performance optimization
-- Fully containerized with Docker
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumar790&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar790&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar790&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## 🎓 Education
 
 **Bachelor of Engineering in Computer Science**  
-Panjab University, Hoshiarpur, Punjab  
+Panjab University,Punjab  
 2021 - 2025
 
 ## 📫 Get in Touch
@@ -112,9 +83,5 @@ Panjab University, Hoshiarpur, Punjab
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveenkumar790&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  💡 <i>Open to collaboration on backend systems, distributed architectures, and logistics tech!</i>
+  💡 <i>Open to collaboration on backend systems, distributed architectures, and scalable applications!</i>
 </p>
