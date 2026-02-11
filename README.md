@@ -78,7 +78,6 @@ Panjab University,Punjab
 
 - 💼 LinkedIn: [linkedin.com/in/praveen790](https://linkedin.com/in/praveen790)
 - 📧 Email: praveenprabhakarkumar@gmail.com
-- 📱 Phone: +91 6299729359
 
 ---
 
